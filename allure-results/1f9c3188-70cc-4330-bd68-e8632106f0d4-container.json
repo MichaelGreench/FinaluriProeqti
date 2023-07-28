@@ -1,0 +1,1 @@
+{"uuid":"1f9c3188-70cc-4330-bd68-e8632106f0d4","name":"LogInTests.chromeClose","children":["841746eb-e69c-49ee-a4b8-c9be8bb7a597"],"description":"","befores":[],"afters":[{"name":"chromeClose","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690350217026,"stop":1690350217026}],"start":1690350217026,"stop":1690350217026}

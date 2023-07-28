@@ -1,0 +1,1 @@
+{"uuid":"7db385b6-9db9-4b2e-a870-6bd9b15c20c7","name":"LogInTests.chromeRunner","children":["4cfce9bf-4526-4b90-b382-126a112c7bb8"],"description":"","befores":[{"name":"chromeRunner","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690543919003,"stop":1690543920227}],"afters":[],"start":1690543919001,"stop":1690543920228}
